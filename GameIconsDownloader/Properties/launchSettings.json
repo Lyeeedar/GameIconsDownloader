@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GameIconsDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Users\\Philip\\workspace\\PortalClosers\\game\\assetsraw\\Sprites\\GameIconsRaw"
+    }
+  }
+}
